@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Abhi</h1>
-<h3 align="center">AI/ML • FastAPI • Backend Development  • Deep Learning  • Generative AI</h3>
+<h3 align="center"> FastAPI • Backend Development • AI/ML • Deep Learning  • Generative AI</h3>
 
 ---
 
