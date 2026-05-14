@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abhi</h1>
+<h1 align="center">Hi, I'm Abhi</h1>
 <h3 align="center">AI/ML • FastAPI • Backend Development  • Deep Learning  • Generative AI</h3>
 
 ---
