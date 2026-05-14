@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">AI/ML • FastAPI • Computer Vision • Backend Development</h3>
 
