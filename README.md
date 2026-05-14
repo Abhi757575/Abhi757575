@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhi</h1>
-<h3 align="center">AI/ML • FastAPI • Computer Vision • Backend Development</h3>
+<h3 align="center">AI/ML • FastAPI • Backend Development  • Deep Learning  • Generative AI</h3>
 
 ---
 
@@ -8,17 +8,16 @@
 
 <div align="left">
 
-🔭 I’m currently working on **AI/ML, FastAPI and Computer Vision projects**  
+🔭 I’m currently working on **AI/ML, FastAPI and DeepLearning projects**  
 
 👯 I’m looking to collaborate on **Open Source and AI based applications**  
 
 🤝 I’m looking for help with **Advanced Deep Learning and MLOps**  
 
-🌱 I’m currently learning **YOLO, OCR Systems, FastAPI and System Design**  
+🌱 I’m currently learning **YOLO, OCR Systems, MLOps and System Design**  
 
-💬 Ask me about **Python, C++, FastAPI, Flask, Machine Learning and DSA**  
+💬 Ask me about **Python, C++, FastAPI, Flask and Machine Learning**  
 
-⚡ Fun fact: **I love combining AI with real-world systems like Railways and Aerospace**
 
 </div>
 
@@ -27,7 +26,7 @@
 # 💻 Tech Stack
 
 ## 🚀 Languages
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -36,7 +35,7 @@
 </p>
 
 ## 🌐 Web & Backend
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
@@ -44,7 +43,7 @@
 </p>
 
 ## 🤖 AI / ML
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -54,7 +53,7 @@
 </p>
 
 ## 🗄️ Databases
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -63,7 +62,7 @@
 </p>
 
 ## ☁️ Deployment & Tools
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
@@ -95,4 +94,3 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Abhi757575&icon=0&color=0"/>
 </p>
-```
